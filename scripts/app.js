@@ -5,3 +5,4 @@ const loadSection = async (id, path) => {
 };
 
 loadSection("hero", "./sections/hero.html");
+loadSection("about", "./sections/about.html");
